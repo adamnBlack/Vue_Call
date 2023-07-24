@@ -3,9 +3,7 @@
 A Vue_Call project with vue 3.0, vue-router and rest API.
 
 ##Build Setup
-```
-Requires Node.js v6+
-```
+<h1>Requires Node.js v6+</h1>
 ```
 npm install
 npm run build
@@ -19,4 +17,7 @@ npm install
 npm run dev
 ```
 ##Reference resources
+
+```
 Kalmen App
+```
