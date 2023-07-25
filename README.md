@@ -1,25 +1,35 @@
-# Vue_Call
+# kalem-portal
 
-A Vue_Call project with vue 3.0, vue-router and rest API.
+This template should help get you started developing with Vue 3 in Vite.
 
-##Build Setup
-```
-Requires Node.js v6+
-```
-```
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
 npm install
-npm run build
-npm start
 ```
 
-##Development Setup
+### Compile and Hot-Reload for Development
 
-```
-npm install
+```sh
 npm run dev
 ```
-##Reference resources
 
+### Compile and Minify for Production
+
+```sh
+npm run build
 ```
-Kalmen App
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
 ```
