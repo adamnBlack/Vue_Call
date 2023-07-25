@@ -1,5 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import Notification from './components/Notification.vue'
 import { inject, onMounted } from 'vue'
 
 import { useAuthenticationStore } from './stores/Authentication'
